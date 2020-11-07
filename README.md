@@ -2,11 +2,11 @@
 
 I'm a multidisciplinary Multimedia Engineer from Alicante, Spain, discovering my path as **Fullstack developer** continuously. Former IT student at [Universidad de Alicante](https://www.ua.es) and [Hong Kong City University](https://www.cityu.edu.hk/).
 
-- ✨ Clean code advocate.
-- 🤯 Designing the problem solves the problem.
-- 🌱 Although it works, repeat it till it gets perfect.
-- 🤝 Open to work!
-- ⚡ Fun fact: I don't like a single sport. I like 5.
+- ✨ &nbsp; Clean code advocate.
+- 🤯 &nbsp; Designing the problem solves the problem.
+- 🌱 &nbsp; Although it works, repeat it till it gets perfect.
+- 🤝 &nbsp; Open to work!
+- ⚡ &nbsp; Fun fact: I don't like a single sport. I like 5.
 
 </br>
 
@@ -27,5 +27,5 @@ The most daunting challenges, that's the kind of projects I like to join and wor
 </details>
 
 
-I love board sports (surf/kite/snow), football and bouldering. If you want to get my 100% attention, just explain something unknown for me 🤯   or make me laugh 😁 . I don't drink **coffee** btw.
+I love board sports (surf/kite/snow), football and bouldering. If you want to get my 100% attention, just explain something unknown for me 🤯 &nbsp; or make me laugh 😁  &nbsp; . I don't drink **coffee** btw.
 
