@@ -27,5 +27,5 @@ The most daunting challenges, that's the kind of projects I like to join and wor
 </details>
 
 
-I love board sports (surf/kite/snow), football and bouldering. If you want to get my 100% attention, just explain something unknown for me 🤯 &nbsp; or make me laugh 😁  &nbsp; . I don't drink **coffee** btw.
+I love board sports (surf/kite/snow), football and bouldering. If you want to get my 100% attention, just explain something unknown for me 🤯 &nbsp; or make me laugh 😁  &nbsp;. I don't drink **coffee** btw.
 
